@@ -1,0 +1,6 @@
+loss: mse
+metrics:
+- mae
+model: LSTM Rainfall Predictor
+optimizer: adam
+sequence_window: 12

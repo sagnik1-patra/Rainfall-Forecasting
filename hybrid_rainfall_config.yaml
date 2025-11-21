@@ -1,0 +1,5 @@
+batch: 16
+dense_units: 16
+dropout: 0.27619265488953265
+lr: 0.0028749146789944745
+lstm_units: 48
